@@ -1,6 +1,7 @@
 {
   "homepage": "https://johnrucker4.github.io/",
   "dependencies": {
+    "react-scripts": "4.0.3",
     "typed.js": "^2.0.16"
   },
   "scripts": {
